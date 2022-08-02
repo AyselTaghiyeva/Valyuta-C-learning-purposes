@@ -1,0 +1,25 @@
+C:\Users\PC\Desktop\Visual Studiom\Valyuta\Valyuta\bin\x64\Debug\Valyuta.exe.config
+C:\Users\PC\Desktop\Visual Studiom\Valyuta\Valyuta\bin\x64\Debug\Valyuta.exe
+C:\Users\PC\Desktop\Visual Studiom\Valyuta\Valyuta\bin\x64\Debug\Valyuta.pdb
+C:\Users\PC\Desktop\Visual Studiom\Valyuta\Valyuta\obj\x64\Debug\Interop.ADOX.dll
+C:\Users\PC\Desktop\Visual Studiom\Valyuta\Valyuta\obj\x64\Debug\Valyuta.csproj.ResolveComReference.cache
+C:\Users\PC\Desktop\Visual Studiom\Valyuta\Valyuta\obj\x64\Debug\Valyuta.Form1.resources
+C:\Users\PC\Desktop\Visual Studiom\Valyuta\Valyuta\obj\x64\Debug\Valyuta.Form2.resources
+C:\Users\PC\Desktop\Visual Studiom\Valyuta\Valyuta\obj\x64\Debug\Valyuta.Properties.Resources.resources
+C:\Users\PC\Desktop\Visual Studiom\Valyuta\Valyuta\obj\x64\Debug\Valyuta.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Visual Studiom\Valyuta\Valyuta\obj\x64\Debug\Valyuta.exe
+C:\Users\PC\Desktop\Visual Studiom\Valyuta\Valyuta\obj\x64\Debug\Valyuta.pdb
+C:\Users\PC\Desktop\Visual Studiom\Valyuta\Valyuta\obj\x64\Debug\Valyuta.csprojResolveAssemblyReference.cache
+C:\Users\u84035373\Downloads\Valyuta\Valyuta\Valyuta\bin\x64\Debug\Valyuta.exe.config
+C:\Users\u84035373\Downloads\Valyuta\Valyuta\Valyuta\bin\x64\Debug\Valyuta.exe
+C:\Users\u84035373\Downloads\Valyuta\Valyuta\Valyuta\bin\x64\Debug\Valyuta.pdb
+C:\Users\u84035373\Downloads\Valyuta\Valyuta\Valyuta\obj\x64\Debug\Valyuta.csprojAssemblyReference.cache
+C:\Users\u84035373\Downloads\Valyuta\Valyuta\Valyuta\obj\x64\Debug\Interop.ADOX.dll
+C:\Users\u84035373\Downloads\Valyuta\Valyuta\Valyuta\obj\x64\Debug\Valyuta.csproj.ResolveComReference.cache
+C:\Users\u84035373\Downloads\Valyuta\Valyuta\Valyuta\obj\x64\Debug\Valyuta.Form1.resources
+C:\Users\u84035373\Downloads\Valyuta\Valyuta\Valyuta\obj\x64\Debug\Valyuta.Form2.resources
+C:\Users\u84035373\Downloads\Valyuta\Valyuta\Valyuta\obj\x64\Debug\Valyuta.Properties.Resources.resources
+C:\Users\u84035373\Downloads\Valyuta\Valyuta\Valyuta\obj\x64\Debug\Valyuta.csproj.GenerateResource.cache
+C:\Users\u84035373\Downloads\Valyuta\Valyuta\Valyuta\obj\x64\Debug\Valyuta.csproj.CoreCompileInputs.cache
+C:\Users\u84035373\Downloads\Valyuta\Valyuta\Valyuta\obj\x64\Debug\Valyuta.exe
+C:\Users\u84035373\Downloads\Valyuta\Valyuta\Valyuta\obj\x64\Debug\Valyuta.pdb
